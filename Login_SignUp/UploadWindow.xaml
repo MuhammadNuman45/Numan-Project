@@ -1,0 +1,56 @@
+﻿<Window x:Class="Login_SignUp.UploadWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Login_SignUp"
+        mc:Ignorable="d"
+        Title="UploadWindow" Height="300" Width="400" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <StackPanel Margin="20">
+            <!-- File Selection Button -->
+            <Button Content="Select File" 
+                    Click="SelectFileButton_Click" 
+                    Padding="10"
+                    Background="#0078D4"
+                    Foreground="White"
+                    BorderBrush="#005A9E"
+                    FontWeight="Bold"
+                    Cursor="Hand"/>
+
+            <!-- Display selected file name -->
+            <TextBox x:Name="SelectedFilePathTextBox"
+                     IsReadOnly="True"
+                     Height="39"
+                     Margin="0,10"
+                     Text="No file selected"
+                     Padding="10"
+                     Background="#ffffff"
+                     BorderBrush="#0078D4"
+                     BorderThickness="1"/>
+
+            <!-- File Type Radio Buttons -->
+            <TextBlock Text="File Type:" Margin="0,10,0,5"/>
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                <RadioButton x:Name="InPatientRadioButton"
+                             Content="In Patient"
+                             GroupName="FileType"
+                             Margin="0,0,10,0"/>
+                <RadioButton x:Name="OutPatientRadioButton"
+                             Content="Out Patient"
+                             GroupName="FileType"/>
+            </StackPanel>
+
+            <!-- Save Button -->
+            <Button Content="Save" 
+                    Click="SaveButton_Click" 
+                    Padding="10"
+                    Background="#28A745"
+                    Foreground="White"
+                    BorderBrush="#218838"
+                    FontWeight="Bold"
+                    Cursor="Hand"
+                    Margin="0,10,0,0"/>
+        </StackPanel>
+    </Grid>
+</Window>

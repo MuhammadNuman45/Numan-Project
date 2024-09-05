@@ -1,0 +1,198 @@
+﻿<Window x:Class="Login_SignUp.Patient_Register"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Login_SignUp"
+        mc:Ignorable="d"
+        Title="Patient Register" WindowStyle="None" ResizeMode="NoResize" 
+        WindowStartupLocation="CenterScreen" Height="800" Width="850">
+    <Window.Resources>
+        <!-- Style for standard buttons -->
+        <Style x:Key="StandardButtonStyle" TargetType="Button">
+            <Setter Property="Background" Value="#0078D4"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="Padding" Value="10,5"/>
+            <Setter Property="BorderBrush" Value="#005A9E"/>
+            <Setter Property="BorderThickness" Value="2"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Height" Value="35"/>
+        </Style>
+
+        <!-- Style for action buttons -->
+        <Style x:Key="ActionButtonStyle" TargetType="Button">
+            <Setter Property="Background" Value="#FFC107"/>
+            <Setter Property="Foreground" Value="Black"/>
+            <Setter Property="Padding" Value="10,5"/>
+            <Setter Property="BorderBrush" Value="#FFA000"/>
+            <Setter Property="BorderThickness" Value="2"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Height" Value="35"/>
+        </Style>
+
+        <!-- Style for refresh button -->
+        <Style x:Key="RefreshButtonStyle" TargetType="Button">
+            <Setter Property="Background" Value="#00BFAE"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="Padding" Value="10,5"/>
+            <Setter Property="BorderBrush" Value="#009B8C"/>
+            <Setter Property="BorderThickness" Value="2"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Height" Value="35"/>
+        </Style>
+
+        <!-- Style for DataGrid action buttons -->
+        <Style x:Key="DataGridActionButtonStyle" TargetType="Button">
+            <Setter Property="Background" Value="#0078D4"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="Padding" Value="5,3"/>
+            <Setter Property="BorderBrush" Value="#005A9E"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Margin" Value="2"/>
+            <Setter Property="FontSize" Value="12"/>
+            <Setter Property="Height" Value="25"/>
+        </Style>
+
+        <!-- DataGrid Header Style -->
+        <Style x:Key="DataGridColumnHeaderStyle" TargetType="DataGridColumnHeader">
+            <Setter Property="Background" Value="#0078D4"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Height" Value="35"/>
+        </Style>
+
+        <!-- Style for TextBox -->
+        <Style x:Key="CustomTextBoxStyle" TargetType="TextBox">
+            <Setter Property="Background" Value="White"/>
+            <Setter Property="Foreground" Value="#333333"/>
+            <Setter Property="BorderBrush" Value="#0078D4"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="Padding" Value="8"/>
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Height" Value="35"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+        </Style>
+
+        <!-- Style for GroupBox -->
+        <Style x:Key="GroupBoxHeaderStyle" TargetType="GroupBox">
+            <Setter Property="Foreground" Value="#333333"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Margin" Value="0,10,0,10"/>
+            <Setter Property="BorderBrush" Value="#0078D4"/>
+            <Setter Property="BorderThickness" Value="2"/>
+            <Setter Property="Padding" Value="10"/>
+            <Setter Property="Background" Value="#F5F5F5"/>
+        </Style>
+
+        <!-- Style for ComboBox -->
+        <Style x:Key="CustomComboBoxStyle" TargetType="ComboBox">
+            <Setter Property="Background" Value="White"/>
+            <Setter Property="Foreground" Value="#333333"/>
+            <Setter Property="BorderBrush" Value="#0078D4"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="Padding" Value="8"/>
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Height" Value="35"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+        </Style>
+    </Window.Resources>
+
+    <Grid>
+        <Button Content="Close" FontSize="16" Background="Red" Foreground="White" 
+                HorizontalAlignment="Right" VerticalAlignment="Top" Margin="10" Width="100" Height="30" Click="CloseDetailsGrid_Click"/>
+
+        <!-- Main Content -->
+        <Grid Margin="20,2,0,18">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <!-- Patient Details Section -->
+            <GroupBox Style="{StaticResource GroupBoxHeaderStyle}" HorizontalAlignment="Center" Width="600">
+                <StackPanel VerticalAlignment="Top" HorizontalAlignment="Center" Width="530">
+                    <Grid Margin="0,0,0,10">
+                        <TextBlock Text="Patient Name :" FontWeight="Bold" Foreground="Gray" Margin="26,12,-16,-13"/>
+                        <TextBox x:Name="PatientNameTextBox" Style="{StaticResource CustomTextBoxStyle}" Width="300"/>
+                    </Grid>
+
+                    <Grid Margin="0,0,0,10">
+                        <TextBlock Text="Patient National ID :" FontWeight="Bold" Foreground="Gray" Margin="-2,15,12,-16"/>
+                        <TextBox x:Name="PatientIDTextBox" Style="{StaticResource CustomTextBoxStyle}" Width="300"/>
+                    </Grid>
+
+                    <Grid Margin="0,0,0,10">
+                        <TextBlock Text="Patient Phone No :"  FontWeight="Bold" Foreground="Gray" Margin="3,15,7,-15"/>
+                        <TextBox x:Name="PatientPhoneNumberTextBox" Style="{StaticResource CustomTextBoxStyle}" Width="300"/>
+                    </Grid>
+
+                    <Grid Margin="0,0,0,10">
+                        <TextBlock Text="MRN :" FontWeight="Bold" Foreground="Gray" Margin="72,0,-62,0" VerticalAlignment="Center"/>
+                        <TextBox x:Name="PatientFileNumberTextBox" Style="{StaticResource CustomTextBoxStyle}" Width="300"/>
+                    </Grid>
+
+                    <Grid Margin="0,0,0,10">
+                        <TextBlock Text="File Type :"  FontWeight="Bold" Foreground="Gray" Margin="50,15,-40,-15"/>
+                        <ComboBox x:Name="FileTypeComboBox" Style="{StaticResource CustomComboBoxStyle}" Width="300">
+                            <ComboBoxItem Content="Outpatient" />
+                            <ComboBoxItem Content="Inpatient" />
+                        </ComboBox>
+                    </Grid>
+                </StackPanel>
+            </GroupBox>
+
+            <!-- Buttons Section (Now below the GroupBox) -->
+            <StackPanel x:Name="StackPanelButtons" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,-6,0,0" Grid.Row="1">
+                <Button Content="Save" Style="{StaticResource StandardButtonStyle}" Background="Green" Foreground="White" Width="100" Height="30" Click="CreateButton_Click"/>
+                <Button Content="Download Template" Style="{StaticResource ActionButtonStyle}" Click="DownloadTemplateButton_Click"/>
+                <Button Content="Export to Excel" Style="{StaticResource ActionButtonStyle}" Click="ExportToExcelButton_Click"/>
+                <Button Content="Upload Template" Style="{StaticResource ActionButtonStyle}" Click="UploadTemplateButton_Click"/>
+                <Button Content="Refresh" Style="{StaticResource RefreshButtonStyle}" Click="RefreshButton_Click"/>
+            </StackPanel>
+
+            <!-- DataGrid Section -->
+            <DataGrid x:Name="PatientDataGrid" AutoGenerateColumns="False" Grid.Row="1" Margin="0,40,0,0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="#F0F0F0" SelectionChanged="PatientDataGrid_SelectionChanged" ColumnHeaderStyle="{StaticResource DataGridColumnHeaderStyle}" IsReadOnly="True">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Serial Number" Binding="{Binding SerialNumber}" Width="*"/>
+                    <DataGridTextColumn Header="MRN" Binding="{Binding FileNumber}" Width="*"/>
+                    <DataGridTextColumn Header="Patient Name" Binding="{Binding Name}" Width="*"/>
+                    <DataGridTextColumn Header="Patient National ID" Binding="{Binding UniquePatientID}" Width="*"/>
+                    <DataGridTextColumn Header="Patient Phone N" Binding="{Binding PhoneNumber}" Width="*"/>
+                    <DataGridTemplateColumn Header="Actions" Width="140">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <StackPanel Orientation="Horizontal">
+                                    <Button Content="Update" Style="{StaticResource DataGridActionButtonStyle}" Background="Green" Foreground="White" Width="65" Height="30" Click="UpdateButton_Click"/>
+                                    <Button Content="Delete" Style="{StaticResource DataGridActionButtonStyle}" Background="Red" Foreground="White" Width="65" Height="30" Click="DeleteButton_Click"/>
+                                </StackPanel>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+
+            <!-- Pagination Section -->
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Bottom" Grid.Row="2" Margin="0,10,0,0">
+                <Button x:Name="PreviousButton" Content="Previous" Style="{StaticResource StandardButtonStyle}"  Click="PreviousButton_Click"/>
+                <TextBlock x:Name="PageInfoTextBlock" VerticalAlignment="Center" Margin="5" Text="Page 1"/>
+                <Button x:Name="NextButton" Content="Next" Style="{StaticResource StandardButtonStyle}" Click="NextButton_Click"/>
+            </StackPanel>
+
+        </Grid>
+    </Grid>
+</Window>

@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Numan_Project\\Login_SignUp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7755560-0A96-40F0-830A-3BE24157B851}|Login_SignUp\\Login_SignUp.csproj|d:\\numan_project\\login_signup\\login_signup\\file_features.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B7755560-0A96-40F0-830A-3BE24157B851}|Login_SignUp\\Login_SignUp.csproj|solutionrelative:login_signup\\file_features.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7755560-0A96-40F0-830A-3BE24157B851}|Login_SignUp\\Login_SignUp.csproj|D:\\Numan_Project\\Login_SignUp\\login_signup\\file_features.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7755560-0A96-40F0-830A-3BE24157B851}|Login_SignUp\\Login_SignUp.csproj|solutionrelative:login_signup\\file_features.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7755560-0A96-40F0-830A-3BE24157B851}|Login_SignUp\\Login_SignUp.csproj|D:\\Numan_Project\\Login_SignUp\\login_signup\\addpatientfilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B7755560-0A96-40F0-830A-3BE24157B851}|Login_SignUp\\Login_SignUp.csproj|solutionrelative:login_signup\\addpatientfilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7755560-0A96-40F0-830A-3BE24157B851}|Login_SignUp\\Login_SignUp.csproj|d:\\numan_project\\login_signup\\login_signup\\addpatientfilewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7755560-0A96-40F0-830A-3BE24157B851}|Login_SignUp\\Login_SignUp.csproj|solutionrelative:login_signup\\addpatientfilewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7755560-0A96-40F0-830A-3BE24157B851}|Login_SignUp\\Login_SignUp.csproj|D:\\Numan_Project\\Login_SignUp\\login_signup\\viewdatawindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7755560-0A96-40F0-830A-3BE24157B851}|Login_SignUp\\Login_SignUp.csproj|solutionrelative:login_signup\\viewdatawindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7755560-0A96-40F0-830A-3BE24157B851}|Login_SignUp\\Login_SignUp.csproj|d:\\numan_project\\login_signup\\login_signup\\viewdatawindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B7755560-0A96-40F0-830A-3BE24157B851}|Login_SignUp\\Login_SignUp.csproj|solutionrelative:login_signup\\viewdatawindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7755560-0A96-40F0-830A-3BE24157B851}|Login_SignUp\\Login_SignUp.csproj|D:\\Numan_Project\\Login_SignUp\\login_signup\\searchresultswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7755560-0A96-40F0-830A-3BE24157B851}|Login_SignUp\\Login_SignUp.csproj|solutionrelative:login_signup\\searchresultswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7755560-0A96-40F0-830A-3BE24157B851}|Login_SignUp\\Login_SignUp.csproj|d:\\numan_project\\login_signup\\login_signup\\updatepatientwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B7755560-0A96-40F0-830A-3BE24157B851}|Login_SignUp\\Login_SignUp.csproj|solutionrelative:login_signup\\updatepatientwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7755560-0A96-40F0-830A-3BE24157B851}|Login_SignUp\\Login_SignUp.csproj|D:\\Numan_Project\\Login_SignUp\\login_signup\\editpatientfilewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7755560-0A96-40F0-830A-3BE24157B851}|Login_SignUp\\Login_SignUp.csproj|solutionrelative:login_signup\\editpatientfilewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7755560-0A96-40F0-830A-3BE24157B851}|Login_SignUp\\Login_SignUp.csproj|D:\\Numan_Project\\Login_SignUp\\login_signup\\patient register.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7755560-0A96-40F0-830A-3BE24157B851}|Login_SignUp\\Login_SignUp.csproj|solutionrelative:login_signup\\patient register.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7755560-0A96-40F0-830A-3BE24157B851}|Login_SignUp\\Login_SignUp.csproj|d:\\numan_project\\login_signup\\login_signup\\uploadwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7755560-0A96-40F0-830A-3BE24157B851}|Login_SignUp\\Login_SignUp.csproj|solutionrelative:login_signup\\uploadwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7755560-0A96-40F0-830A-3BE24157B851}|Login_SignUp\\Login_SignUp.csproj|d:\\numan_project\\login_signup\\login_signup\\uploadwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B7755560-0A96-40F0-830A-3BE24157B851}|Login_SignUp\\Login_SignUp.csproj|solutionrelative:login_signup\\uploadwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7755560-0A96-40F0-830A-3BE24157B851}|Login_SignUp\\Login_SignUp.csproj|D:\\Numan_Project\\Login_SignUp\\login_signup\\patientfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7755560-0A96-40F0-830A-3BE24157B851}|Login_SignUp\\Login_SignUp.csproj|solutionrelative:login_signup\\patientfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "File_Features.xaml",
+              "DocumentMoniker": "D:\\Numan_Project\\Login_SignUp\\Login_SignUp\\File_Features.xaml",
+              "RelativeDocumentMoniker": "Login_SignUp\\File_Features.xaml",
+              "ToolTip": "D:\\Numan_Project\\Login_SignUp\\Login_SignUp\\File_Features.xaml*",
+              "RelativeToolTip": "Login_SignUp\\File_Features.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-29T01:36:03.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewDataWindow.xaml",
+              "DocumentMoniker": "D:\\Numan_Project\\Login_SignUp\\Login_SignUp\\ViewDataWindow.xaml",
+              "RelativeDocumentMoniker": "Login_SignUp\\ViewDataWindow.xaml",
+              "ToolTip": "D:\\Numan_Project\\Login_SignUp\\Login_SignUp\\ViewDataWindow.xaml",
+              "RelativeToolTip": "Login_SignUp\\ViewDataWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-29T01:20:35.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddPatientFileWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Numan_Project\\Login_SignUp\\Login_SignUp\\AddPatientFileWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Login_SignUp\\AddPatientFileWindow.xaml.cs",
+              "ToolTip": "D:\\Numan_Project\\Login_SignUp\\Login_SignUp\\AddPatientFileWindow.xaml.cs",
+              "RelativeToolTip": "Login_SignUp\\AddPatientFileWindow.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T00:38:20.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UploadWindow.xaml",
+              "DocumentMoniker": "D:\\Numan_Project\\Login_SignUp\\Login_SignUp\\UploadWindow.xaml",
+              "RelativeDocumentMoniker": "Login_SignUp\\UploadWindow.xaml",
+              "ToolTip": "D:\\Numan_Project\\Login_SignUp\\Login_SignUp\\UploadWindow.xaml",
+              "RelativeToolTip": "Login_SignUp\\UploadWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-28T22:56:06.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "File_Features.xaml.cs",
+              "DocumentMoniker": "D:\\Numan_Project\\Login_SignUp\\Login_SignUp\\File_Features.xaml.cs",
+              "RelativeDocumentMoniker": "Login_SignUp\\File_Features.xaml.cs",
+              "ToolTip": "D:\\Numan_Project\\Login_SignUp\\Login_SignUp\\File_Features.xaml.cs",
+              "RelativeToolTip": "Login_SignUp\\File_Features.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T17:11:39.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddPatientFileWindow.xaml",
+              "DocumentMoniker": "D:\\Numan_Project\\Login_SignUp\\Login_SignUp\\AddPatientFileWindow.xaml",
+              "RelativeDocumentMoniker": "Login_SignUp\\AddPatientFileWindow.xaml",
+              "ToolTip": "D:\\Numan_Project\\Login_SignUp\\Login_SignUp\\AddPatientFileWindow.xaml",
+              "RelativeToolTip": "Login_SignUp\\AddPatientFileWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-28T01:16:15.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PatientFile.cs",
+              "DocumentMoniker": "D:\\Numan_Project\\Login_SignUp\\Login_SignUp\\PatientFile.cs",
+              "RelativeDocumentMoniker": "Login_SignUp\\PatientFile.cs",
+              "ToolTip": "D:\\Numan_Project\\Login_SignUp\\Login_SignUp\\PatientFile.cs",
+              "RelativeToolTip": "Login_SignUp\\PatientFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T00:33:11.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UploadWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Numan_Project\\Login_SignUp\\Login_SignUp\\UploadWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Login_SignUp\\UploadWindow.xaml.cs",
+              "ToolTip": "D:\\Numan_Project\\Login_SignUp\\Login_SignUp\\UploadWindow.xaml.cs",
+              "RelativeToolTip": "Login_SignUp\\UploadWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T23:35:17.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SearchResultsWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Numan_Project\\Login_SignUp\\Login_SignUp\\SearchResultsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Login_SignUp\\SearchResultsWindow.xaml.cs",
+              "ToolTip": "D:\\Numan_Project\\Login_SignUp\\Login_SignUp\\SearchResultsWindow.xaml.cs",
+              "RelativeToolTip": "Login_SignUp\\SearchResultsWindow.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T19:31:46.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdatePatientWindow.xaml",
+              "DocumentMoniker": "D:\\Numan_Project\\Login_SignUp\\Login_SignUp\\UpdatePatientWindow.xaml",
+              "RelativeDocumentMoniker": "Login_SignUp\\UpdatePatientWindow.xaml",
+              "ToolTip": "D:\\Numan_Project\\Login_SignUp\\Login_SignUp\\UpdatePatientWindow.xaml",
+              "RelativeToolTip": "Login_SignUp\\UpdatePatientWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-28T22:29:11.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewDataWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Numan_Project\\Login_SignUp\\Login_SignUp\\ViewDataWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Login_SignUp\\ViewDataWindow.xaml.cs",
+              "ToolTip": "D:\\Numan_Project\\Login_SignUp\\Login_SignUp\\ViewDataWindow.xaml.cs",
+              "RelativeToolTip": "Login_SignUp\\ViewDataWindow.xaml.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAYwHoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T04:41:55.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditPatientFileWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Numan_Project\\Login_SignUp\\Login_SignUp\\EditPatientFileWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Login_SignUp\\EditPatientFileWindow.xaml.cs",
+              "ToolTip": "D:\\Numan_Project\\Login_SignUp\\Login_SignUp\\EditPatientFileWindow.xaml.cs",
+              "RelativeToolTip": "Login_SignUp\\EditPatientFileWindow.xaml.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T01:52:08.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Patient Register.xaml.cs",
+              "DocumentMoniker": "D:\\Numan_Project\\Login_SignUp\\Login_SignUp\\Patient Register.xaml.cs",
+              "RelativeDocumentMoniker": "Login_SignUp\\Patient Register.xaml.cs",
+              "ToolTip": "D:\\Numan_Project\\Login_SignUp\\Login_SignUp\\Patient Register.xaml.cs",
+              "RelativeToolTip": "Login_SignUp\\Patient Register.xaml.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAADwv4YAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T23:33:47.674Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

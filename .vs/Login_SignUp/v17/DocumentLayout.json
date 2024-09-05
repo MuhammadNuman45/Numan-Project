@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bk\\Desktop\\Login_SignUp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7755560-0A96-40F0-830A-3BE24157B851}|Login_SignUp\\Login_SignUp.csproj|c:\\users\\bk\\desktop\\login_signup\\login_signup\\viewdatawindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7755560-0A96-40F0-830A-3BE24157B851}|Login_SignUp\\Login_SignUp.csproj|solutionrelative:login_signup\\viewdatawindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Login_SignUp||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7755560-0A96-40F0-830A-3BE24157B851}|Login_SignUp\\Login_SignUp.csproj|C:\\Users\\bk\\Desktop\\Login_SignUp\\login_signup\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7755560-0A96-40F0-830A-3BE24157B851}|Login_SignUp\\Login_SignUp.csproj|solutionrelative:login_signup\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7755560-0A96-40F0-830A-3BE24157B851}|Login_SignUp\\Login_SignUp.csproj|C:\\Users\\bk\\Desktop\\Login_SignUp\\login_signup\\viewdatawindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B7755560-0A96-40F0-830A-3BE24157B851}|Login_SignUp\\Login_SignUp.csproj|solutionrelative:login_signup\\viewdatawindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7755560-0A96-40F0-830A-3BE24157B851}|Login_SignUp\\Login_SignUp.csproj|C:\\Users\\bk\\Desktop\\Login_SignUp\\login_signup\\newscanwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B7755560-0A96-40F0-830A-3BE24157B851}|Login_SignUp\\Login_SignUp.csproj|solutionrelative:login_signup\\newscanwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7755560-0A96-40F0-830A-3BE24157B851}|Login_SignUp\\Login_SignUp.csproj|C:\\Users\\bk\\Desktop\\Login_SignUp\\login_signup\\uploadwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B7755560-0A96-40F0-830A-3BE24157B851}|Login_SignUp\\Login_SignUp.csproj|solutionrelative:login_signup\\uploadwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7755560-0A96-40F0-830A-3BE24157B851}|Login_SignUp\\Login_SignUp.csproj|C:\\Users\\bk\\Desktop\\Login_SignUp\\login_signup\\file_features.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B7755560-0A96-40F0-830A-3BE24157B851}|Login_SignUp\\Login_SignUp.csproj|solutionrelative:login_signup\\file_features.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7755560-0A96-40F0-830A-3BE24157B851}|Login_SignUp\\Login_SignUp.csproj|C:\\Users\\bk\\Desktop\\Login_SignUp\\login_signup\\addpatientfilewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7755560-0A96-40F0-830A-3BE24157B851}|Login_SignUp\\Login_SignUp.csproj|solutionrelative:login_signup\\addpatientfilewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7755560-0A96-40F0-830A-3BE24157B851}|Login_SignUp\\Login_SignUp.csproj|C:\\Users\\bk\\Desktop\\Login_SignUp\\login_signup\\file_features.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7755560-0A96-40F0-830A-3BE24157B851}|Login_SignUp\\Login_SignUp.csproj|solutionrelative:login_signup\\file_features.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7755560-0A96-40F0-830A-3BE24157B851}|Login_SignUp\\Login_SignUp.csproj|C:\\Users\\bk\\Desktop\\Login_SignUp\\login_signup\\uploadwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7755560-0A96-40F0-830A-3BE24157B851}|Login_SignUp\\Login_SignUp.csproj|solutionrelative:login_signup\\uploadwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7755560-0A96-40F0-830A-3BE24157B851}|Login_SignUp\\Login_SignUp.csproj|C:\\Users\\bk\\Desktop\\Login_SignUp\\login_signup\\addpatientfilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B7755560-0A96-40F0-830A-3BE24157B851}|Login_SignUp\\Login_SignUp.csproj|solutionrelative:login_signup\\addpatientfilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login_SignUp",
+              "DocumentMoniker": "C:\\Users\\bk\\Desktop\\Login_SignUp\\Login_SignUp\\Login_SignUp.csproj",
+              "RelativeDocumentMoniker": "Login_SignUp\\Login_SignUp.csproj",
+              "ToolTip": "D:\\Numan_Project\\Numan_Project\\Login_SignUp\\Login_SignUp\\Login_SignUp.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-02T18:13:42.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\bk\\Desktop\\Login_SignUp\\Login_SignUp\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Login_SignUp\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\bk\\Desktop\\Login_SignUp\\Login_SignUp\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Login_SignUp\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T19:12:37.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewDataWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bk\\Desktop\\Login_SignUp\\Login_SignUp\\ViewDataWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Login_SignUp\\ViewDataWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\bk\\Desktop\\Login_SignUp\\Login_SignUp\\ViewDataWindow.xaml.cs",
+              "RelativeToolTip": "Login_SignUp\\ViewDataWindow.xaml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T12:37:38.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewDataWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\bk\\Desktop\\Login_SignUp\\Login_SignUp\\ViewDataWindow.xaml",
+              "RelativeDocumentMoniker": "Login_SignUp\\ViewDataWindow.xaml",
+              "ToolTip": "C:\\Users\\bk\\Desktop\\Login_SignUp\\Login_SignUp\\ViewDataWindow.xaml",
+              "RelativeToolTip": "Login_SignUp\\ViewDataWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-01T12:30:37.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "File_Features.xaml",
+              "DocumentMoniker": "C:\\Users\\bk\\Desktop\\Login_SignUp\\Login_SignUp\\File_Features.xaml",
+              "RelativeDocumentMoniker": "Login_SignUp\\File_Features.xaml",
+              "ToolTip": "C:\\Users\\bk\\Desktop\\Login_SignUp\\Login_SignUp\\File_Features.xaml",
+              "RelativeToolTip": "Login_SignUp\\File_Features.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-01T11:41:54.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "File_Features.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bk\\Desktop\\Login_SignUp\\Login_SignUp\\File_Features.xaml.cs",
+              "RelativeDocumentMoniker": "Login_SignUp\\File_Features.xaml.cs",
+              "ToolTip": "C:\\Users\\bk\\Desktop\\Login_SignUp\\Login_SignUp\\File_Features.xaml.cs",
+              "RelativeToolTip": "Login_SignUp\\File_Features.xaml.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAAAMQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T10:35:43.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddPatientFileWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\bk\\Desktop\\Login_SignUp\\Login_SignUp\\AddPatientFileWindow.xaml",
+              "RelativeDocumentMoniker": "Login_SignUp\\AddPatientFileWindow.xaml",
+              "ToolTip": "C:\\Users\\bk\\Desktop\\Login_SignUp\\Login_SignUp\\AddPatientFileWindow.xaml",
+              "RelativeToolTip": "Login_SignUp\\AddPatientFileWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-29T09:15:52.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewScanWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\bk\\Desktop\\Login_SignUp\\Login_SignUp\\NewScanWindow.xaml",
+              "RelativeDocumentMoniker": "Login_SignUp\\NewScanWindow.xaml",
+              "ToolTip": "C:\\Users\\bk\\Desktop\\Login_SignUp\\Login_SignUp\\NewScanWindow.xaml",
+              "RelativeToolTip": "Login_SignUp\\NewScanWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-29T09:10:57.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddPatientFileWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bk\\Desktop\\Login_SignUp\\Login_SignUp\\AddPatientFileWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Login_SignUp\\AddPatientFileWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\bk\\Desktop\\Login_SignUp\\Login_SignUp\\AddPatientFileWindow.xaml.cs",
+              "RelativeToolTip": "Login_SignUp\\AddPatientFileWindow.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T09:06:56.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UploadWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bk\\Desktop\\Login_SignUp\\Login_SignUp\\UploadWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Login_SignUp\\UploadWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\bk\\Desktop\\Login_SignUp\\Login_SignUp\\UploadWindow.xaml.cs",
+              "RelativeToolTip": "Login_SignUp\\UploadWindow.xaml.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAgwEYAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:53:32.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UploadWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\bk\\Desktop\\Login_SignUp\\Login_SignUp\\UploadWindow.xaml",
+              "RelativeDocumentMoniker": "Login_SignUp\\UploadWindow.xaml",
+              "ToolTip": "C:\\Users\\bk\\Desktop\\Login_SignUp\\Login_SignUp\\UploadWindow.xaml",
+              "RelativeToolTip": "Login_SignUp\\UploadWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-28T22:56:06.493Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
